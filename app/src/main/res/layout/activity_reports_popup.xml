@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F5F5F5"
+    tools:context=".Activites.ReportsPopup">
+
+    <Spinner
+        android:id="@+id/spinner_Reports"
+        style="@style/Widget.AppCompat.Spinner"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginEnd="@dimen/_5sdp"
+        android:dropDownWidth="match_parent"
+        android:dropDownVerticalOffset="?attr/dropdownListPreferredItemHeight"
+        android:background="@null"
+        android:popupBackground="@android:color/white"
+        android:spinnerMode="dropdown"
+        />
+
+    <EditText android:id="@+id/E_Report"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_30sdp"
+        android:maxLines="1"
+        android:paddingEnd="@dimen/_5sdp"
+        android:visibility="gone"
+        android:paddingStart="@dimen/_5sdp"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginEnd="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_below="@+id/spinner_Reports"
+        android:background="@drawable/bc_edittext"
+        android:textColorHint="@color/darkblue"
+        android:textSize="14sp"
+        android:textColor="@color/darkblue"
+         />
+
+
+    <Button
+        android:id="@+id/Btn_Confirm"
+        android:layout_width="@dimen/_120sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_50sdp"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/E_Report"
+        android:text="@string/confirm"
+        android:background="@drawable/bc_post"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

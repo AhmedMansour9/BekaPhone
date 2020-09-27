@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/New_Tempo.iml" filepath="$PROJECT_DIR$/.idea/modules/New_Tempo.iml" group="New_Tempo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/New_Tempo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/New_Tempo-app.iml" group="New_Tempo/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="beKyaaBns/app" />
+      <module fileurl="file://$PROJECT_DIR$/beKyaaBns.iml" filepath="$PROJECT_DIR$/beKyaaBns.iml" group="beKyaaBns" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/beKyaaBns-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/beKyaaBns-app.iml" group="beKyaaBns/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/new Bekya-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/new Bekya-app.iml" group="new Bekya/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/new_Bekya.iml" filepath="$PROJECT_DIR$/.idea/modules/new_Bekya.iml" group="new_Bekya" />
+    </modules>
+  </component>
+</project>

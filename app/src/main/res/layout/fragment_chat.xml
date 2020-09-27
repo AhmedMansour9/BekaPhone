@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFDFD"
+    tools:context=".Fragments.Chat">
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_Chat"
+        android:layout_above="@+id/E_Messsage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_Chat"
+            android:scrollbars="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <EditText
+        android:layout_width="@dimen/_230sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bcedittext"
+        android:layout_margin="@dimen/_10sdp"
+       android:id="@+id/E_Messsage"
+        android:paddingStart="@dimen/_10sdp"
+        />
+   <ImageView
+       android:layout_width="@dimen/_40sdp"
+       android:layout_height="@dimen/_40sdp"
+       android:layout_alignParentBottom="true"
+       android:layout_alignParentEnd="true"
+       android:layout_margin="@dimen/_10sdp"
+       app:srcCompat="@drawable/sendmessage"
+       android:id="@+id/Btn_SendMessage"
+       />
+</RelativeLayout>

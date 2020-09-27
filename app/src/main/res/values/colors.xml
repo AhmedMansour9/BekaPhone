@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="btnSignUp">#39796b</color>
+
+    <color name="green">#9BAC44</color>
+    <color name="blue">#48c0ed</color>
+
+
+    <color name="btnSignActive">#A9d440</color>
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+    <color name="colorPrimary">#bdbdbd</color>
+    <color name="colorPrimaryDark">#707070</color>
+    <color name="colorAccent">#48c0ed</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="menu_bg">#101F2D</color>
+    <color name="light_gray">#AA808080</color>
+    <color name="gray">#dddddd</color>
+    <color name="tab_bg">#142029</color>
+    <color name="bg_light_blue">#EBF5FF</color>
+    <color name="light_black">#000</color>
+    <color name="light_black_AA">#AA000000</color>
+    <color name="light_black_">#33000000</color>
+    <color name="light_white_">#33FFFFFF</color>
+    <color name="dialog_bg">#f0f0f0</color>
+    <color name="orange_400">#ff6c00</color>
+
+    <drawable name="light_black_">#33000000</drawable>
+    <color name="darkblue">#003152</color>
+
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+    <color name="grey_95">#1a1a1a</color>
+    <color name="grey_100_">#0d0d0d</color>
+
+</resources>
+
+    <!--<resources>-->
+    <!--<color name="colorPrimary">#004d40</color>-->
+    <!--<color name="colorPrimaryDark">#00251a</color>-->
+    <!--<color name="colorAccent">#39796b</color>-->
+    <!--<color name="btnSignUp">#39796b</color>-->
+    <!--<color name="btnSignActive">#A9d440</color>-->
+    <!--<color name="overlayBackground">#7f333639</color>-->
+    <!--<color name="overlayActionBar">#0e0d0e</color>-->
+    <!--<color name="primary">#E43F3F</color>-->
+    <!--<color name="primary_dark">#E12929</color>-->
+    <!--<color name="primary_darker">#CC1D1D</color>-->
+    <!--<color name="accent">#FFFFFF</color>-->
+
+    <!--<color name="black">#000000</color>-->
+    <!--<color name="jet">#222222</color>-->
+    <!--<color name="oil">#333333</color>-->
+    <!--<color name="monsoon">#777777</color>-->
+    <!--<color name="jumbo">#888888</color>-->
+    <!--<color name="aluminum">#999999</color>-->
+    <!--<color name="base">#AAAAAA</color>-->
+    <!--<color name="iron">#CCCCCC</color>-->
+    <!--<color name="white">#FFFFFF</color>-->
+
+
+    <!--</resources>-->
