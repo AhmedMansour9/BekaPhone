@@ -12,7 +12,7 @@ android {
     }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.starbugs_Bekaphone"
+        applicationId "com.bekya.bekyaa"
         minSdkVersion 17
         multiDexEnabled true
         targetSdkVersion 28

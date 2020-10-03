@@ -253,7 +253,7 @@
         android:layout_below="@+id/PannerCard"
         android:layout_marginTop="@dimen/_30sdp"
         ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-1430161852443923/1913949063">
+        ads:adUnitId="ca-app-pub-6462444708413244/9817880508">
     </com.google.android.gms.ads.AdView>
 
     <!--    <android.support.design.widget.AppBarLayout-->

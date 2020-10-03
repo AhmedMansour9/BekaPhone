@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/rootlayout"
-    tools:context="com.starbugs_Bekaphone.Fragments.myposts">
+    tools:context="com.bekya.bekyaa.Fragments.myposts">
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:id="@+id/swipe_container"
