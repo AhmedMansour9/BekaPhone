@@ -4,15 +4,15 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.tempomena",
+  "applicationId": "bekya.bekyaa",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "properties": [],
-      "versionCode": 10,
-      "versionName": "10",
+      "versionCode": 19,
+      "versionName": "19",
       "enabled": true,
       "outputFile": "app-release.apk"
     }
