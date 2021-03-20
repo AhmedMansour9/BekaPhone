@@ -695,7 +695,7 @@ EditText name,descrip , phone, price ,govern;
 
     }
     private void chooseImage() {
-handleButtonClicked();
+     handleButtonClicked();
     }
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {

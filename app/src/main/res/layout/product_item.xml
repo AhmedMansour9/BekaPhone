@@ -63,7 +63,7 @@
             android:layout_marginBottom="@dimen/_5sdp"
             android:layout_centerVertical="true"
             android:adjustViewBounds="true"
-            android:scaleType="fitXY" />
+            />
 
         <TextView
             android:id="@+id/user_name"

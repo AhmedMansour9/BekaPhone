@@ -70,7 +70,7 @@ import androidx.fragment.app.FragmentTransaction;
 import io.paperdb.Paper;
 
 
-public class Home extends AppCompatActivity
+public class    Home extends AppCompatActivity
         implements   NavigationView.OnNavigationItemSelectedListener {
     Fragment fr;
     private int mCurrentSelectedPosition = 0;
