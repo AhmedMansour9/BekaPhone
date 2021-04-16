@@ -239,7 +239,7 @@
                     android:maxLength="11"
                     android:paddingStart="@dimen/_5sdp"
                     android:paddingEnd="@dimen/_5sdp"
-                    android:textColor="@color/grey_20"
+                    android:textColor="@color/darkblue"
                     android:textColorHint="@color/grey_20"
                     android:textSize="14sp" />
             </com.google.android.material.textfield.TextInputLayout>

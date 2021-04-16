@@ -44,7 +44,7 @@
         android:layout_marginTop="?actionBarSize"
         android:layout_width="match_parent"
 
-        android:layout_height="@dimen/_180sdp" />
+        android:layout_height="@dimen/_210sdp" />
 
 
     <ImageView
@@ -60,12 +60,12 @@
         android:layout_width="@dimen/_80sdp"
         android:layout_height="@dimen/_40sdp"
         app:elevation="6dp"
-        app:backgroundTint="@color/orange_400"
+        app:backgroundTint="#F3761B"
         android:layout_toStartOf="@+id/floating_Message"
         android:scaleType="fitXY"
         app:fabSize="mini"
         android:layout_marginEnd="@dimen/_10sdp"
-        android:layout_marginTop="@dimen/_165sdp"
+        android:layout_marginTop="@dimen/_195sdp"
         android:layout_below="@+id/appbar"
         app:srcCompat="@android:drawable/stat_sys_phone_call"/>
 
@@ -76,11 +76,11 @@
         android:layout_width="@dimen/_120sdp"
         android:layout_height="@dimen/_80sdp"
         app:elevation="6dp"
-        app:backgroundTint="@color/orange_400"
+        app:backgroundTint="#F3761B"
         android:layout_alignParentEnd="true"
         android:layout_gravity="center"
         android:layout_marginEnd="@dimen/_20sdp"
-        android:layout_marginTop="@dimen/_155sdp"
+        android:layout_marginTop="@dimen/_185sdp"
         android:layout_below="@+id/appbar"
         app:srcCompat="@android:drawable/ic_dialog_email"/>
     <me.relex.circleindicator.CircleIndicator
@@ -89,7 +89,7 @@
         android:layout_height="@dimen/_30sdp"
         app:ci_height="@dimen/_5sdp"
         app:ci_width="@dimen/_5sdp"
-        android:layout_marginTop="@dimen/_180sdp"
+        android:layout_marginTop="@dimen/_210sdp"
         app:ci_drawable="@drawable/selected"
         app:ci_drawable_unselected="@drawable/unselected"
         android:layout_alignParentStart="true"
@@ -99,7 +99,7 @@
 
     <androidx.appcompat.widget.Toolbar
         android:layout_width="match_parent"
-        android:layout_height="@dimen/_100sdp"
+        android:layout_height="@dimen/_110sdp"
         android:layout_gravity="bottom"
         android:layout_below="@+id/vp_slider"
         android:background="@color/orange_400"
@@ -111,7 +111,7 @@
     <TextView
         android:textSize="19sp"
         android:layout_below="@+id/vp_slider"
-        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_20sdp"
         android:maxLength="50"
         android:textColor="#fff"
         android:textStyle="bold"
@@ -127,7 +127,7 @@
         android:textColor="#fff"
         android:textSize="19sp"
         android:layout_below="@+id/vp_slider"
-        android:layout_marginTop="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_50sdp"
         android:layout_alignParentEnd="true"
         android:textStyle="bold"
         android:text="2o38372873"
